@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "name": "Chaitnaya Sharma",
+    "location": "Jhilmil Colony, Delhi, India",
+    "title": "Software Developer & Java Backend Engineer",
+    "resumeFilename": "resume.pdf",
+    "resumeLocation": "public/resume.pdf"
+  },
+  "intro": {
+    "text": "Hi, I am Chaitnaya Sharma. Welcome to my portfolio! Use the arrow keys to walk around the map, and press ENTER when you see a prompt to explore my projects, skills, and experience. Short on time? You can also use the navigation bar above to jump straight to my info!"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "As a final-year engineering student and passionate full-stack developer, I specialize in architecting scalable backends with Java and Spring Boot while crafting dynamic, interactive frontends using React and Redux. I am driven by a deep interest in algorithmic problem-solving and object-oriented design, constantly working to bridge the gap between foundational software principles and modern, cloud-native solutions. Whether I am building secure REST APIs, managing relational databases, or designing engaging user experiences, I am eager to bring my technical expertise to real-world challenges and am actively seeking internship opportunities where I can learn, innovate, and make a tangible impact."
+  },
+  "skills": {
+        "title": "Skills",
+        "languages": [
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "SQL",
+            "Python"
+        ],
+        "frameworks-and-libraries": [
+            "Spring Boot",
+            "Spring Security",
+            "Spring Data JPA",
+            "React",
+            "Redux Toolkit",
+            "Phaser 3",
+            "Node.js",
+            "Tailwind CSS"
+        ],
+        "tools-and-platforms": [
+            "Maven",
+            "GitHub",
+            "Docker",
+            "Postman",
+            "AWS",
+            "Vite",
+            "Tiled"
+        ],
+        "core-concepts": [
+            "Data Structures & Algorithms (DSA)",
+            "Object-Oriented Programming (OOP)",
+            "Database Management Systems (DBMS)",
+            "Operating Systems (OS)",
+            "RESTful APIs",
+            "Microservices Architecture",
+            "JWT Authentication",
+            "Cloud Fundamentals"
+        ],
+        "specialized-integrations": [
+            "Spring AI",
+            "OpenAI Whisper API",
+            "Axios",
+            "JUnit & Mockito"
+        ],
+        "soft-skills": [
+            "Problem-Solving",
+            "Team Collaboration",
+            "Technical Communication",
+            "Agile Methodologies"
+        ]
+  },
+  "projects": {
+    "title": "Projects",
+    "list": [
+      {
+        "name": "Full-Stack E-commerce Platform",
+        "type": "Spring Boot, React, Redux, PostgreSQL, AWS",
+        "description": "Engineered a highly scalable, production-ready enterprise e-commerce platform driven by a robust Spring Boot REST API backend and a dynamic React/Redux frontend. To ensure strict security and sophisticated state management, the system leverages JSON Web Tokens (JWT) for Role-Based Access Control (RBAC) across dedicated Admin, Seller, and User panels. The backend logic relies on deeply optimized PostgreSQL and JPA/Hibernate relational schemas to efficiently map complex shopping cart states, dynamic order processing, and user profiles. Furthermore, the architecture integrates Stripe for secure payment processing and is deployed to AWS, utilizing Spring Boot Profiles to maintain strict environment separation and seamless cloud scalability.",
+        "link":"https://vastu-frontend-csprojects.vercel.app/"
+      },
+      {
+        "name": "AI-Powered Audio Transcription System",
+        "type": "Spring Boot, React, OpenAI Whisper",
+        "description": "Developed a complete AI-powered transcription platform utilizing Spring Boot’s Spring AI module and React to facilitate rapid, seamless audio uploads and speech-to-text conversion. The system's core relies on a highly secure backend transcription pipeline integrated with OpenAI's Whisper model, featuring sophisticated temporary file handling and robust API key management. On the client side, a responsive React interface leverages Axios and custom components for the instant rendering of AI-generated transcripts. The entire architecture is supported by rigorously designed REST APIs equipped with comprehensive CORS policies, multipart form-data processing, and structured error handling to ensure consistent reliability.",
+        "link":"https://ai-audio-transcriber-app.netlify.app/"
+      },
+      {
+        "name": "Interactive RPG Game Portfolio",
+        "type": "React, Phaser 3, Vite, JavaScript",
+        "description": "Architected an innovative, gamified web experience by embedding the Phaser 3 game engine within a React and Vite environment to create an interactive RPG-style portfolio map. The project features deeply modularized game logic with entity-based elements, interactive NPCs, and clickable buildings that seamlessly trigger dynamic React UI components and JSON-driven resume overlays. To elevate user engagement and presentation, the environment includes custom cinematic camera paths, a polished introductory sequence, and typewriter text effects, effectively blending creative technical design with professional career detailing.",
+        "link":"#"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "email": "chaitanyasharma360@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/chaitanya-sharma-85645226a"
+  },
+  "coding-platforms": {
+    "title": "Coding Platforms",
+    "platforms": [
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/u/Chaitanya0110/",
+        "image": "https://dl.svgcdn.com/png/simple-icons/leetcode-800.png"
+      },
+      {
+        "name": "CodeChef",
+        "url": "https://www.codechef.com/users/chaitanya0110",
+        "image": "https://dl.svgcdn.com/png/simple-icons/codechef-800.png"
+      },
+      {
+        "name": "CodeForces",
+        "url": "https://codeforces.com/profile/chaitanyasharma360",
+        "image": "https://dl.svgcdn.com/png/simple-icons/codeforces-800.png"
+      }
+    ]
+  }
+}
