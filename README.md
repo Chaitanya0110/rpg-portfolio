@@ -1,4 +1,4 @@
-# [Interactive RPG Developer Portfolio](https://portfolio-cs0110.netlify.app/)
+# [Interactive RPG Developer Portfolio](https://portfolio-cs0110.netlify.app/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 A fully interactive, 2D RPG-style developer portfolio built with React and Phaser 3. Instead of scrolling through a standard webpage, visitors can walk a character around a custom-built 2D map and interact with buildings to discover my projects, skills, and experience.
 
@@ -26,21 +26,32 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git(https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
    ```
 2. Navigate into the project directory:
-  ```cd YOUR-REPO-NAME```
-3. Install the dependencies:
-   ```npm install```
-4. Start the local development server:
-   ```npm run dev```
-5. Open your browser and visit http://localhost:5173 (or the port provided in your terminal).
+   ```bash
+   cd YOUR-REPO-NAME
+   ```
+4. Install the dependencies:
+   ```bash
+   npm install
+   ```
+5. Start the local development server:
+   ```bash
+   npm run dev
+   ```
+6. Open your browser and visit http://localhost:5173 (or the port provided in your terminal).
 
 ## 📁 Customizing the Data
 You do not need to edit the React or Phaser code to update the portfolio content.
 
-Navigate to public/portfolioData.json.
+1. Navigate to public/portfolioData.json.
 
-Update the JSON objects to replace the placeholder data with your own text, links, and project details.
+2. Update the JSON objects to replace the placeholder data with your own text, links, and project details.
 
-Replace public/resume.pdf with your own resume file.
+3. Replace public/resume.pdf with your own resume file.
+
+## 📜 License
+This project is licensed under the MIT License - see the `LICENSE` file for details. 
+
+**Copyright (c) 2026 Chaitanya Sharma.** You are welcome to clone and modify this repository to build your own portfolio, provided that the original copyright notice is retained.
