@@ -30,7 +30,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
    ```
 2. Navigate into the project directory:
    ```bash
-   cd rpg-portfolio
+   cd rpg-portfolio [project directory]
    ```
 4. Install the dependencies:
    ```bash
