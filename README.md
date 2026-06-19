@@ -26,11 +26,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git(https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+   git clone https://github.com/Chaitanya0110/rpg-portfolio.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd YOUR-REPO-NAME
+   cd rpg-portfolio
    ```
 4. Install the dependencies:
    ```bash
